@@ -1,2 +1,2 @@
 # whiteboardplotter
-create a sleak white board plotter
+create a sleek white board plotter
